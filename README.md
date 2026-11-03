@@ -169,6 +169,4 @@ All four test cases pass.
 
 ## Author
 
-Your Name · Your Roll Number / Class · Your College
-
-*Replace the line above with your own details before uploading to GitHub.*
+Name= Ansh Gupta · REF- RU-26-02376 / Class · Rungta International Skills University - PS No. 64
